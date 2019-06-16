@@ -1,4 +1,4 @@
-# YibanCASAuthenticating
+# SampleCASAuthenticating
 A sample CAS authenticating system.
 Using Spring Boot.
 
