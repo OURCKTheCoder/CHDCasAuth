@@ -17,9 +17,9 @@ import org.springframework.context.annotation.*;
 //@Component
 public class DefaultCASConfig_Sample {
 
-	private static final String CAS_SERVER_PREFIX = ""; // "http://ids.chd.edu.cn/authserver";
+	private static final String CAS_SERVER_PREFIX = ""; // "不告诉你";
 	private static final String CAS_SERVER_LOGIN_URL = "";
-	private static final String CAS_CLIENT_HOSTNAME = ""; // "http://ids.chddata.com"
+	private static final String CAS_CLIENT_HOSTNAME = ""; // "不告诉你"
 	
 	/**
 	 * 指定本CAS客户端 要启用CAS认证的资源的 url模式
